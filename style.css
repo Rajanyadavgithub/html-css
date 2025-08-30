@@ -1,0 +1,39 @@
+/* all selector work here */
+*{
+    text-align: center;
+    color: blue;
+}
+
+p {
+    text-align: left;
+    color: aqua;
+    background-color: rgb(14, 182, 182);
+}
+
+#para1{
+    text-align: center;
+    color: brown;
+    background-color: bisque;
+}
+
+.thirdpara{
+    text-align: right;
+    color: blueviolet;
+    background-color: blanchedalmond;
+}
+
+h1, h2, h3 {
+    text-align: center;
+    color: darkgreen;
+    background-color: #ef245a;
+    border: 5px solid #5c13d3;
+}
+
+#rgbcolor {
+    background-color: rgb(0,200,0,0.5);
+    /* fourth value define opacity of color */
+}
+#hexvalue {
+    /* hex value #rrggbb  #ff0000 #000000 #ffffff*/
+    background-color: #b4b4b4;
+}
